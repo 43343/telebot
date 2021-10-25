@@ -1,0 +1,17 @@
+{
+  "name": "telegBotKino",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "dependencies": {
+    "dotenv": "^10.0.0",
+    "mongoose": "^6.0.11",
+    "ngrok": "^4.2.2",
+    "node-fetch": "2.2.0",
+    "rutracker-api": "^1.1.2",
+    "telebot": "^1.4.1"
+  },
+  "scripts": {
+    "start": "nodemon bot"
+  }
+}
